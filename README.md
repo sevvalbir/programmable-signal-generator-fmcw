@@ -37,19 +37,19 @@ LM317T
 
 ## System Architecture
 
-![Hardware](images/system.jpg)
+![Hardware](images/system.jpeg)
 
 ---
 
 ## Experimental Results
 
-![Hardware](images/signal.jpg)
+![Hardware](images/signal.jpeg)
 
 ---
 
 ## Images
 
-![Hardware](images/diagram.jpg)
+![Hardware](images/diagram.jpeg)
 
 ---
 
