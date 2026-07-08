@@ -28,25 +28,28 @@ The implementation source code is intentionally not shared publicly.
 
 ## Hardware Components
 
-(To be updated)
+Arduino Nano
+AD9833
+AD633JN
+LM317T
 
 ---
 
 ## System Architecture
 
-(To be updated)
+![Hardware](images/system.jpg)
 
 ---
 
 ## Experimental Results
 
-(To be updated)
+![Hardware](images/signal.jpg)
 
 ---
 
 ## Images
 
-(To be updated)
+![Hardware](images/diagram.jpg)
 
 ---
 
